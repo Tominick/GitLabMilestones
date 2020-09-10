@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GitLabMilestones", ".\GitLabMilestones", "{ED1D6EAE-4296-453F-835D-308A90ADE8CC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/GitLabMilestones"
+		Debug.AspNetCompiler.PhysicalPath = ".\GitLabMilestones\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\GitLabMilestones\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/GitLabMilestones"
+		Release.AspNetCompiler.PhysicalPath = ".\GitLabMilestones\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\GitLabMilestones\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60131"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1D6EAE-4296-453F-835D-308A90ADE8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1D6EAE-4296-453F-835D-308A90ADE8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
